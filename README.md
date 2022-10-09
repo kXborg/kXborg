@@ -1,5 +1,4 @@
-
-![Me-2](https://user-images.githubusercontent.com/55614432/192613505-765b2edc-9eb1-42d0-b9e8-c7f5bc5c6c7c.jpg)
+![me](https://user-images.githubusercontent.com/55614432/194773003-ab79f964-7a12-42d9-afff-135812c79df9.jpg)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kxborg&label=Profile%20views&color=0e75b6&style=flat" alt="kxborg" /> </p>
 
