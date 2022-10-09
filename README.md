@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kukil-kashyap-borgohain/" target="blank"><img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/linkedin.svg?raw=true" alt="https://www.linkedin.com/in/kukil-kashyap-borgohain/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kukil-kashyap-borgohain/" target="blank"><img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/linkedin.svg?raw=true" alt="https://www.linkedin.com/in/kukil-kashyap-borgohain/" height="30" width="40" /></a>
 <a href="https://kaggle.com/kxborg" target="blank"><img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/kaggle.svg?raw=true" alt="kaggle" height="30" width="40" /></a>
 </p>
 
