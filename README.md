@@ -5,7 +5,7 @@
 
 - 🌱 I am currently focusing on **Object Detection in Embedded Devices**
 
-- 📝 I regularly write articles on [LearnOpenCV](www.learnopencv.com/author/kukil)
+- 📝 I regularly write articles on <a href="www.learnopencv.com/author/kukil" target="_blank"></a>
 
 - 💬 Ask me about **Computer Vision, Arduino and Raspberry Pi**
 
