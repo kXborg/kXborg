@@ -5,13 +5,13 @@
 
 - 🌱 I am currently focusing on **Object Detection in Embedded Devices**
 
+- 📝 I regularly write articles on <a href="https://www.learnopencv.com/author/kukil" target="_blank">LearnOpenCV</a>
+
 - 💬 Ask me about **Computer Vision, Arduino and Raspberry Pi**
 
 - 📫 Reach me at **kukilp213@gmail.com**
 
 - ⚡ Fun fact: **I like collecting USB cables**
-
-- 📝 I regularly write articles on <a href="https://www.learnopencv.com/author/kukil" target="_blank">LearnOpenCV</a>
 
 
 <h3 align="left">Connect with me:</h3>
