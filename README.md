@@ -1,7 +1,7 @@
 
 ![Me-2](https://user-images.githubusercontent.com/55614432/192613505-765b2edc-9eb1-42d0-b9e8-c7f5bc5c6c7c.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kxborg&label=Profile%20views&color=0e75b6&style=flat" alt="kxborg" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kxborg&label=Profile%20views&color=0e75b6&style=flat" alt="kxborg" /> </p>
 
 - 🌱 I am currently focusing on **Object Detection in Embedded Devices**
 
