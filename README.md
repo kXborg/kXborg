@@ -1,7 +1,5 @@
 ![me](https://user-images.githubusercontent.com/55614432/194773003-ab79f964-7a12-42d9-afff-135812c79df9.jpg)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=kxborg&label=Profile%20views&color=0e75b6&style=flat" alt="kxborg" /> </p>
-
 - 🌱 I am currently focusing on **Object Detection in Embedded Devices**
 
 - 📝 I regularly write articles on <a href="https://www.learnopencv.com/author/kukil" target="_blank">LearnOpenCV</a>
