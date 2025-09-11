@@ -1,4 +1,4 @@
-![Kukil](<img width="1506" height="776" alt="image" src="https://github.com/user-attachments/assets/9dd72dd4-8ba9-45fc-a1f5-b8e1925cd451" />)
+<img width="1506" height="776" alt="image" src="https://github.com/user-attachments/assets/9dd72dd4-8ba9-45fc-a1f5-b8e1925cd451" />
 
 - 🌱 I am currently working on a confidential project.
 
