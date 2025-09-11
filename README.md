@@ -1,4 +1,4 @@
-![me](https://user-images.githubusercontent.com/55614432/194773003-ab79f964-7a12-42d9-afff-135812c79df9.jpg)
+![Kukil](<img width="1506" height="776" alt="image" src="https://github.com/user-attachments/assets/9dd72dd4-8ba9-45fc-a1f5-b8e1925cd451" />)
 
 - 🌱 I am currently working on a confidential project.
 
