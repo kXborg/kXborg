@@ -1,16 +1,13 @@
 ![kukil-computer-vision-opencv](https://github.com/user-attachments/assets/411b418e-01a5-4f5d-a51d-b4b94e0dc4a5)
 
 
-- 🌱 I am currently working on a confidential project.
+- 🌱 I am currently working on TLCM - Tea Leaf Classifier Machine.
 
 - 📝 I regularly write articles on <a href="https://www.learnopencv.com/author/kukil" target="_blank">LearnOpenCV</a>
 
-- 💬 Ask me about **Computer Vision, Arduino, and Raspberry Pi**
+- 💬 Ask me about **Computer Vision, MicroControllers, Jetson and Raspberry Pi**
 
 - 📫 Reach me at **kukilp213@gmail.com**
-
-- ⚡ Fun fact: **I like collecting USB cables**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
