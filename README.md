@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/kukil-kashyap-borgohain/" target="blank"><img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/linkedin.svg?raw=true" alt="https://www.linkedin.com/in/kukil-kashyap-borgohain/" height="30" width="40" /></a>
 <a href="https://kaggle.com/kxborg" target="blank"><img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/kaggle.svg?raw=true" alt="kaggle" height="30" width="40" /></a>
-<a href="https://www.python.org" target="blank" rel="noreferrer"> <img src="https://github.com/kXborg/kXborg/blob/main/icons/python.svg?raw=true" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="blank" > <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/python.svg?raw=true" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="blank" <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/cpp.svg?raw=true" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="blank"  <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/tensorflow.svg?raw=true" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://pytorch.org/" target="blank"  <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/pytorch.svg?raw=true" alt="pytorch" width="40" height="40"/> </a> 
