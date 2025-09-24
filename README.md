@@ -8,16 +8,16 @@
 <a href="https://www.linkedin.com/in/kukil-kashyap-borgohain/" target="blank"><img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/linkedin.svg?raw=true" alt="https://www.linkedin.com/in/kukil-kashyap-borgohain/" height="30" width="40" /></a>
 <a href="https://kaggle.com/kxborg" target="blank"><img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/kaggle.svg?raw=true" alt="kaggle" height="30" width="40" /></a>
 <a href="https://www.python.org" target="blank" > <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/python.svg?raw=true" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="blank" <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/cpp.svg?raw=true" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="blank"  <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/tensorflow.svg?raw=true" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="blank"  <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/pytorch.svg?raw=true" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="blank"  <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/opencv.svg?raw=true" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="blank"  <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/arduino.svg?raw=true" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://ifttt.com/" target="blank"  <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/ifttt.svg?raw=true" alt="ifttt" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="blank"  <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/aws.svg?raw=true" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.blender.org/" target="blank"  <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/blender.svg?raw=true" alt="blender" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="blank"  <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/photoshop.png?raw=true" alt="photoshop" width="40" height="40"/> </a>  
-<a href="www.adobe.com" target="blank" ><img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/ae.png?raw=true" alt="blender" width="40" height="40"></a> 
-<a href="www.procreate.com" target="blank" <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/procreate.png?raw=true" alt="procreate" width="40" height="40"></a> 
+<a href="https://www.w3schools.com/cpp/" target="blank"> <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/cpp.svg?raw=true" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org" target="blank">  <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/tensorflow.svg?raw=true" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://pytorch.org/" target="blank">  <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/pytorch.svg?raw=true" alt="pytorch" width="40" height="40"/> </a> 
+<a href="https://opencv.org/" target="blank">  <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/opencv.svg?raw=true" alt="opencv" width="40" height="40"/> </a> 
+<a href="https://www.arduino.cc/" target="blank">  <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/arduino.svg?raw=true" alt="arduino" width="40" height="40"/> </a> 
+<a href="https://ifttt.com/" target="blank">  <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/ifttt.svg?raw=true" alt="ifttt" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com" target="blank">  <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/aws.svg?raw=true" alt="aws" width="40" height="40"/> </a> 
+<a href="https://www.blender.org/" target="blank">  <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/blender.svg?raw=true" alt="blender" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="blank">  <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/photoshop.png?raw=true" alt="photoshop" width="40" height="40"/> </a>  
+<a href="www.adobe.com" target="blank" > <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/ae.png?raw=true" alt="blender" width="40" height="40"></a> 
+<a href="www.procreate.com" target="blank"> <img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/procreate.png?raw=true" alt="procreate" width="40" height="40"></a> 
 </p>
 
