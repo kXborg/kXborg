@@ -1,12 +1,8 @@
-![kukil-computer-vision-opencv](https://github.com/user-attachments/assets/411b418e-01a5-4f5d-a51d-b4b94e0dc4a5)
+
+![Kukil-Kashyap-Borgohain](https://github.com/user-attachments/assets/077f3d8a-febb-4d7b-800a-37504278c033)
 
 
-- 🌱 I am currently working on TLCM - Tea Leaf Classifier Machine.
-
-- 📝 I regularly write articles on <a href="https://www.learnopencv.com/author/kukil" target="_blank">LearnOpenCV</a>
-
-- 💬 Ask me about **Computer Vision, MicroControllers, Jetson and Raspberry Pi**
-
+- 🌱 I am currently working on TLCM - Tea Leaf Classifier Machine and regularly write articles on <a href="https://www.learnopencv.com/author/kukil" target="_blank">LearnOpenCV</a>
 - 📫 Reach me at **kukilp213@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
