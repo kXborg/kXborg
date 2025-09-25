@@ -19,6 +19,11 @@
 <a href="https://www.blender.org/" target="_blank"><img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/blender.svg?raw=true" alt="blender" width="40" height="40"/></a>
 <a href="https://www.photoshop.com/en" target="_blank"><img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/photoshop.png?raw=true" alt="photoshop" width="40" height="40"/></a>  
 <a href="https://www.adobe.com" target="_blank"><img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/ae.png?raw=true" alt="adobe after effects" width="40" height="40"/></a> 
-<a href="https://www.procreate.com" target="_blank"><img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/procreate.png?raw=true" alt="procreate" width="40" height="40"/></a> 
+<a href="https://www.procreate.com" target="_blank"><img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/procreate.png?raw=true" alt="procreate" width="40" height="40"/></a>
+<a href="https://www.huggingface.co" target="_blank"><img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/huggingface.svg?raw=true" alt="huggingface" width="40" height="40"/></a>
+<a href="https://www.adobe.com/" target="_blank"><img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/premier.png?raw=true" alt="premier-pro" width="40" height="40"/></a>
+<a href="https://www.autocad.com/" target="_blank"><img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/autocad.jpg?raw=true" alt="Autocad" width="40" height="40"/></a>
+<a href="https://www.autdesk.com/" target="_blank"><img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/fusion.png?raw=true" alt="Fusion 360" width="40" height="40"/></a>
+<a href="https://www.ollama.com/" target="_blank"><img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/ollama.png?raw=true" alt="Ollama" width="40" height="40"/></a>
 </p>
 
