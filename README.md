@@ -2,7 +2,7 @@
 <img width="1920" height="478" alt="Kukil Kashyap Borgohain - OpenCV, Computer Vision, TinyML, Microcontrollers, Raspberry Pi, and jetson Nanos" src="https://github.com/user-attachments/assets/7c0c92ab-d5df-46da-8629-1d20455f0e71" />
 
 
-Checkout my journel <a href="www.orbital.net.in">Orbital Blog</a> here. Reach me at **kukilp213@gmail.com**
+Checkout my journel <a href="https://www.orbital.net.in">Orbital Blog</a> here. Reach me at **kukilp213@gmail.com**
 I am currently working on TLCM - Tea Leaf Classifier Machine and regularly write articles on <a href="https://www.learnopencv.com/author/kukil" target="_blank">LearnOpenCV</a>. 
 
 <p align="left">
