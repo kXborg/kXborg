@@ -2,7 +2,7 @@ Hi there — you found me.
 
 I’m **Senior AI/ML Engineer** at [Aivar Innovations](https://aivar.tech/). I build full-stack applications on **AWS**, production **ML/LLM** systems, and **agents** end to end.
 
-Check out my journal at the [Orbital Blog](https://www.orbital.net.in). You can reach me at **kukilp213@gmail.com**.
+Every weekend projects are logged in my Journal here [Orbital Blog](https://www.orbital.net.in). You can reach me at **kukilp213@gmail.com**.
 
 Past technical writing (**25+ articles**): [LearnOpenCV author archive](https://www.learnopencv.com/author/kukil).
 
