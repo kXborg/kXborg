@@ -2,30 +2,29 @@ Hi there — you found me.
 
 I’m **Senior AI/ML Engineer** at [Aivar Innovations](https://aivar.tech/). I build full-stack applications on **AWS**, production **ML/LLM** systems, and **agents** end to end.
 
-Check out my journal at the [Orbital Blog](https://www.orbital.net.in). Reach me at **kukilp213@gmail.com**.
+Check out my journal at the [Orbital Blog](https://www.orbital.net.in). You can reach me at **kukilp213@gmail.com**.
 
 Past technical writing (**25+ articles**): [LearnOpenCV author archive](https://www.learnopencv.com/author/kukil).
 
 ### Connect
 
-<table align="left" border="0" cellspacing="0" cellpadding="0"><tr>
-<td><a href="https://www.linkedin.com/in/kukil-kashyap-borgohain/" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/linkedin.svg?raw=true" alt="LinkedIn" height="30" width="40" /></a></td>
-<td><a href="https://kaggle.com/kxborg" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/kaggle.svg?raw=true" alt="Kaggle" height="30" width="40" /></a></td>
+<table border="0" cellspacing="0" cellpadding="0" style="border:0;border-collapse:collapse;"><tr>
+<td style="border:0;padding:0;"><a href="https://www.linkedin.com/in/kukil-kashyap-borgohain/" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/linkedin.svg?raw=true" alt="LinkedIn" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
+<td style="border:0;padding:0;"><a href="https://kaggle.com/kxborg" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/kaggle.svg?raw=true" alt="Kaggle" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
 </tr></table>
-<br>
 
 ### Stack
 
-<table align="left" border="0" cellspacing="0" cellpadding="0"><tr>
-<td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/python.svg?raw=true" alt="Python" width="40" height="40" /></a></td>
-<td><a href="https://isocpp.org" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/cpp.svg?raw=true" alt="C++" width="40" height="40" /></a></td>
-<td><a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" /></a></td>
-<td><a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /></a></td>
-<td><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/aws.svg?raw=true" alt="AWS" width="40" height="40" /></a></td>
-<td><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/tensorflow.svg?raw=true" alt="TensorFlow" width="40" height="40" /></a></td>
-<td><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/pytorch.svg?raw=true" alt="PyTorch" width="40" height="40" /></a></td>
-<td><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/opencv.svg?raw=true" alt="OpenCV" width="40" height="40" /></a></td>
-<td><a href="https://huggingface.co" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/huggingface.svg?raw=true" alt="Hugging Face" width="40" height="40" /></a></td>
-<td><a href="https://www.ollama.com/" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/ollama.png?raw=true" alt="Ollama" width="40" height="40" /></a></td>
-<td><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/arduino.svg?raw=true" alt="Arduino" width="40" height="40" /></a></td>
+<table border="0" cellspacing="0" cellpadding="0" style="border:0;border-collapse:collapse;"><tr>
+<td style="border:0;padding:0;"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/python.svg?raw=true" alt="Python" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
+<td style="border:0;padding:0;"><a href="https://isocpp.org" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/cpp.svg?raw=true" alt="C++" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
+<td style="border:0;padding:0;"><a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
+<td style="border:0;padding:0;"><a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
+<td style="border:0;padding:0;"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/aws.svg?raw=true" alt="AWS" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
+<td style="border:0;padding:0;"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/tensorflow.svg?raw=true" alt="TensorFlow" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
+<td style="border:0;padding:0;"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/pytorch.svg?raw=true" alt="PyTorch" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
+<td style="border:0;padding:0;"><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/opencv.svg?raw=true" alt="OpenCV" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
+<td style="border:0;padding:0;"><a href="https://huggingface.co" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/huggingface.svg?raw=true" alt="Hugging Face" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
+<td style="border:0;padding:0;"><a href="https://www.ollama.com/" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/ollama.png?raw=true" alt="Ollama" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
+<td style="border:0;padding:0;"><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/arduino.svg?raw=true" alt="Arduino" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
 </tr></table>
