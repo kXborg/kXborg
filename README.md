@@ -6,16 +6,9 @@ Every weekend projects are logged in my Journal here [Orbital Blog](https://www.
 
 Past technical writing (**25+ articles**): [LearnOpenCV author archive](https://www.learnopencv.com/author/kukil).
 
-### Connect
-
 <table border="0" cellspacing="0" cellpadding="0" style="border:0;border-collapse:collapse;"><tr>
 <td style="border:0;padding:0;"><a href="https://www.linkedin.com/in/kukil-kashyap-borgohain/" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/linkedin.svg?raw=true" alt="LinkedIn" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
 <td style="border:0;padding:0;"><a href="https://kaggle.com/kxborg" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/kaggle.svg?raw=true" alt="Kaggle" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
-</tr></table>
-
-### Stack
-
-<table border="0" cellspacing="0" cellpadding="0" style="border:0;border-collapse:collapse;"><tr>
 <td style="border:0;padding:0;"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/python.svg?raw=true" alt="Python" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
 <td style="border:0;padding:0;"><a href="https://isocpp.org" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/cpp.svg?raw=true" alt="C++" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
 <td style="border:0;padding:0;"><a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
