@@ -12,6 +12,7 @@ Past technical writing (**25+ articles**): [LearnOpenCV author archive](https://
 <td><a href="https://www.linkedin.com/in/kukil-kashyap-borgohain/" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/linkedin.svg?raw=true" alt="LinkedIn" height="30" width="40" /></a></td>
 <td><a href="https://kaggle.com/kxborg" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/kaggle.svg?raw=true" alt="Kaggle" height="30" width="40" /></a></td>
 </tr></table>
+<br>
 
 ### Stack
 
