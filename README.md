@@ -1,10 +1,6 @@
 Hi there — you found me.
 
-I’m **Senior AI/ML Engineer** at [Aivar Innovations](https://aivar.tech/). I build full-stack applications on **AWS**, production **ML/LLM** systems, and **agents** end to end.
-
-Every weekend projects are logged in my Journal here [Orbital Blog](https://www.orbital.net.in). You can reach me at **kukilp213@gmail.com**.
-
-Past technical writing (**25+ articles**): [LearnOpenCV author archive](https://www.learnopencv.com/author/kukil).
+I’m **Senior AI/ML Engineer** at [Aivar Innovations](https://aivar.tech/). I build full-stack applications on **AWS**, production **ML/LLM** systems, and **agents** end to end. Every weekend projects are logged in my Journal here [Orbital Blog](https://www.orbital.net.in). Past technical writing (**25+ articles**): [LearnOpenCV author archive](https://www.learnopencv.com/author/kukil). For collaborations, you can reach me at **kukilp213@gmail.com**. 
 
 <table border="0" cellspacing="0" cellpadding="0" style="border:0;border-collapse:collapse;"><tr>
 <td style="border:0;padding:0;"><a href="https://www.linkedin.com/in/kukil-kashyap-borgohain/" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/linkedin.svg?raw=true" alt="LinkedIn" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
