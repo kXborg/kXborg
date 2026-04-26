@@ -20,8 +20,6 @@ The **Tea Leaf Classifier Machine (TLCM)** — an electromechanical + computer-v
 <p align="left">
 <a href="https://www.python.org" target="_blank"><img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/python.svg?raw=true" alt="Python" width="40" height="40"/></a>
 <a href="https://isocpp.org" target="_blank"><img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/cpp.svg?raw=true" alt="C++" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-<a href="https://react.dev" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
 <a href="https://fastapi.tiangolo.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>
 <a href="https://www.docker.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank"><img align="center" src="https://github.com/kXborg/kXborg/blob/main/icons/aws.svg?raw=true" alt="AWS" width="40" height="40"/></a>
