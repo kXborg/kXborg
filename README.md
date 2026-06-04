@@ -1,4 +1,4 @@
-Hi there — you found me.
+Hi there! You found me.
 
 I’m **Senior AI/ML Engineer** at [Aivar Innovations](https://aivar.tech/). I build full-stack applications on **AWS**, production **ML/LLM** systems, and **agents** end to end. Every weekend projects are logged in my Journal here [Orbital Blog](https://www.orbital.net.in). Past technical writing (**25+ articles**): [LearnOpenCV author archive](https://www.learnopencv.com/author/kukil). For collaborations, you can reach me at **kukilp213@gmail.com**. 
 
