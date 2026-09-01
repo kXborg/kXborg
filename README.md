@@ -1,19 +1,11 @@
-Hi there! You found me.
+### Kukil Kashyap Borgohain
 
-I’m an **AI Architect** at Aivar Innovations, building **GenAI systems**, and production-grade **ML/LLM applications** on AWS. My engineering journey spans from **33kV power systems to 3.3V edge AI**, across automation, microcontrollers, and intelligent software. I document my weekend builds at **[Orbital Blog](https://www.orbital.net.in)** and have written **25+ technical articles** for **[LearnOpenCV](https://www.learnopencv.com/author/kukil)**. Open to collaborations: **[kukilp213@gmail.com](mailto:kukilp213@gmail.com)**
+> AI Architect at **Aivar Innovations**. Designing GenAI platforms and production ML/LLM systems on AWS.
 
-<table border="0" cellspacing="0" cellpadding="0" style="border:0;border-collapse:collapse;"><tr>
-<td style="border:0;padding:0;"><a href="https://www.linkedin.com/in/kukil-kashyap-borgohain/" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/linkedin.svg?raw=true" alt="LinkedIn" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
-<td style="border:0;padding:0;"><a href="https://kaggle.com/kxborg" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/kaggle.svg?raw=true" alt="Kaggle" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
-<td style="border:0;padding:0;"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/python.svg?raw=true" alt="Python" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
-<td style="border:0;padding:0;"><a href="https://isocpp.org" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/cpp.svg?raw=true" alt="C++" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
-<td style="border:0;padding:0;"><a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
-<td style="border:0;padding:0;"><a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
-<td style="border:0;padding:0;"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/aws.svg?raw=true" alt="AWS" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
-<td style="border:0;padding:0;"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/tensorflow.svg?raw=true" alt="TensorFlow" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
-<td style="border:0;padding:0;"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/pytorch.svg?raw=true" alt="PyTorch" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
-<td style="border:0;padding:0;"><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/opencv.svg?raw=true" alt="OpenCV" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
-<td style="border:0;padding:0;"><a href="https://huggingface.co" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/huggingface.svg?raw=true" alt="Hugging Face" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
-<td style="border:0;padding:0;"><a href="https://www.ollama.com/" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/ollama.png?raw=true" alt="Ollama" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
-<td style="border:0;padding:0;"><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://github.com/kXborg/kXborg/blob/main/icons/arduino.svg?raw=true" alt="Arduino" width="40" height="40" border="0" style="border:0;vertical-align:middle;" /></a></td>
-</tr></table>
+- **Background** >> 33kV power systems to 3.3V edge AI, microcontrollers, and automation.
+- **Focus Areas** >> `GenAI Systems` `LLM Infrastructure` `Edge AI` `Distributed Systems`
+- **Publications** >> 25+ technical articles on [LearnOpenCV](https://www.learnopencv.com/author/kukil). Engineering logs at [Orbital Blog](https://www.orbital.net.in).
+
+---
+
+[Website](https://www.orbital.net.in) · [LinkedIn](https://www.linkedin.com/in/kukil-kashyap-borgohain/) · [Kaggle](https://kaggle.com/kxborg) · [Email](mailto:kukilp213@gmail.com)
