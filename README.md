@@ -4,7 +4,7 @@
 
 - **Background** >> 33kV power systems to 3.3V edge AI, microcontrollers, and automation.
 - **Focus Areas** >> `GenAI Systems` `LLM Infrastructure` `Edge AI` `Distributed Systems`
-- **Publications** >> 25+ technical articles on [LearnOpenCV](https://www.learnopencv.com/author/kukil). Engineering logs at [Orbital Blog](https://www.orbital.net.in).
+- **Publications** >> 50+ technical articles on [LearnOpenCV](https://www.learnopencv.com/author/kukil). Engineering logs at [Orbital Blog](https://www.orbital.net.in).
 
 ---
 
